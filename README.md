@@ -26,8 +26,8 @@ Initiator VC - President (Mar 2024 - Nov 2024)
 
 Stealth Startup - Founder's Associate (Sep 2023 - Nov 2023)
 - Convinced Max Marchione (now, co-founder of superpower.com) to take me on as an apprentice/intern
-- This was before Superpower, when he was in the very early stages of company building - helped with everything from health-tech research and interviewing nutritionists, to pitch deck creation and everything in between
-- Loved every second of it - instilled a strong bias to action and the ability to spin many plates
+- This was before Superpower, when he was in the very early stages of company building - helped with everything from health-tech research and interviewing nutritionists, to pitch deck creation
+- Loved every second of it - instilled a strong bias to action
 
 BlackRock - Summer Analyst (Jun 2023 - Aug 2023)
 - 8-weeks in the Financial Markets Advisory team
