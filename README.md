@@ -1,4 +1,4 @@
-# EF-Application
+# EF CV
 
 QuantumLight - Investment Intern (Sep 2024 - Present)
 - Data-driven VC fund founded by Nik Storonsky, Founder/CEO of Revolut
