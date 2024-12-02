@@ -1,5 +1,7 @@
 # EF CV
 
+LinkedIn: https://www.linkedin.com/in/kunal-barman/
+
 QuantumLight - Investment Intern (Sep 2024 - Present)
 - Data-driven VC fund founded by Nik Storonsky, Founder/CEO of Revolut
 - Received an offer from Imperial to study Computer Science, but realised I learn better by doing
